@@ -1,0 +1,11 @@
+{
+  "name": "xmr-proxy",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node proxy.js"
+  }
+}
